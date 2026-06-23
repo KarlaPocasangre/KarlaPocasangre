@@ -1,1 +1,184 @@
-# KarlaPocasangre-
+<!-- ───────────────────────── GRADIENT DIVIDER ───────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ───────────────────────── HEADER ───────────────────────── -->
+<div align="center">
+
+<h1>
+  こんにちは, soy Karla &nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+</h1>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=520&lines=Jr.+Web+Developer+%F0%9F%8C%B8;Jr.+Cybersecurity+Analyst+%F0%9F%94%90;React+%26+TypeScript+Enthusiast+%E2%9C%A8;Always+learning%2C+never+stopping+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Visitor counter -->
+<img src="https://komarev.com/ghpvc/?username=karlapocasangre&label=visitors&color=FF6B9D&style=flat-square" alt="profile views" />
+
+</div>
+
+<!-- ───────────────────────── ABOUT ME ───────────────────────── -->
+<br/>
+
+<img align="right" width="240" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+## 🌸 &nbsp;About Me
+
+```yaml
+name: Karla Estefany Hernández Pocasangre
+alias: karlapocasangre
+roles:
+  - "Jr. Web Developer 🌐"
+  - "Jr. Cybersecurity Analyst 🔐"
+stack:
+  frontend: ["React", "TypeScript", "JavaScript", "HTML", "CSS"]
+  security: ["Network Analysis", "Linux", "Git"]
+interests:
+  - "Web dev & seguridad ofensiva/defensiva"
+  - "UI/UX con estética retro ✨"
+  - "City pop & lo-fi while coding 🎵"
+currently_learning:
+  - "Penetration Testing"
+  - "Next.js"
+  - "Docker"
+open_to: "nuevas oportunidades y colaboraciones 🤝"
+```
+
+<br/>
+
+---
+
+<!-- ───────────────────────── TECH STACK ───────────────────────── -->
+
+<div align="center">
+
+## 🛠️ &nbsp;Tech Stack & Tools
+
+<!-- Frontend & Languages -->
+
+### 🌐 &nbsp;Frontend & Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass&theme=dark" />
+</p>
+
+<!-- Security & DevOps -->
+
+### 🔐 &nbsp;Security & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker&theme=dark" />
+</p>
+
+<!-- Tools -->
+
+### ⚙️ &nbsp;Tools & Editors
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,notion,postman&theme=dark" />
+</p>
+
+</div>
+
+---
+
+<!-- ───────────────────────── BADGES DE CONTACTO ───────────────────────── -->
+
+<div align="center">
+
+## 🌆 &nbsp;Connect with me
+
+<!-- ⚠️ Cambia "karlapocasangre" por tu username real de LinkedIn -->
+<a href="https://www.linkedin.com/in/karla-estefany-hernandez-pocasangre/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=C44DFF&labelColor=9B35E0"/>
+</a>
+&nbsp;
+<a href="mailto:karlahernandezpocasangre@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF6B9D&labelColor=E04D7A"/>
+</a>
+
+</div>
+
+---
+
+<!-- ───────────────────────── GITHUB STATS ───────────────────────── -->
+
+<div align="center">
+
+## 📊 &nbsp;GitHub Stats
+
+<details open>
+<summary><b>🔥 Streak Stats</b></summary>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=karlapocasangre&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF9F43&currStreakLabel=C44DFF" alt="streak" />
+</details>
+
+<br/>
+
+<details>
+<summary><b>💻 Profile Stats</b></summary>
+<br/>
+<p>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=karlapocasangre&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C44DFF&count_private=true" />
+  &nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlapocasangre&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&langs_count=8" />
+</p>
+</details>
+
+<br/>
+
+<details>
+<summary><b>🏆 Trophies</b></summary>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=karlapocasangre&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+</details>
+
+</div>
+
+---
+
+<!-- ───────────────────────── ACTIVITY GRAPH ───────────────────────── -->
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karlapocasangre&bg_color=0D1117&color=FF6B9D&line=C44DFF&point=FF9F43&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- ───────────────────────── SNAKE ───────────────────────── -->
+
+## 🐍 &nbsp;My Contributions
+
+<!--
+  ⚠️  Para activar la serpiente, crea un GitHub Action en tu repo de perfil:
+  https://github.com/Platane/snk#github-actions
+  Una vez configurado, la imagen aparecerá automáticamente aquí.
+-->
+<div align="center">
+  <img src="https://github.com/karlapocasangre/karlapocasangre/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+<!-- ───────────────────────── QUOTE ───────────────────────── -->
+
+<div align="center">
+
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quoteCategory=programming" alt="quote"/>
+</a>
+
+</div>
+
+<!-- ───────────────────────── GRADIENT DIVIDER ───────────────────────── -->
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <sub>✨ Made with love & lo-fi beats · karlapocasangre · 2026 ✨</sub>
+</div>
