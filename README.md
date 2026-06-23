@@ -23,7 +23,8 @@
 <!-- ───────────────────────── ABOUT ME ───────────────────────── -->
 <br/>
 
-<img align="right" width="240" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<!-- 🐱 Sube tu gif como "cat.gif" a la raíz de este repo para que aparezca -->
+<img align="right" width="130" src="./media/gato.gif"/>
 
 ## 🌸 &nbsp;About Me
 
@@ -69,6 +70,9 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 ### 🔐 &nbsp;Security & DevOps
 
+<!-- 🐧 Sube tu gif como "tux.gif" a la raíz de este repo para que aparezca -->
+<img align="right" width="100" src="./media/tux.gif"/>
+
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker&theme=dark" />
 </p>
@@ -91,7 +95,6 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 ## 🌆 &nbsp;Connect with me
 
-<!-- ⚠️ Cambia "karlapocasangre" por tu username real de LinkedIn -->
 <a href="https://www.linkedin.com/in/karla-estefany-hernandez-pocasangre/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=C44DFF&labelColor=9B35E0"/>
 </a>
@@ -126,6 +129,14 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
   &nbsp;
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlapocasangre&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&langs_count=8" />
 </p>
+</details>
+
+<br/>
+
+<details>
+<summary><b>🏆 Trophies</b></summary>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=karlapocasangre&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
 </details>
 
 </div>
