@@ -128,14 +128,6 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 </p>
 </details>
 
-<br/>
-
-<details>
-<summary><b>🏆 Trophies</b></summary>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=karlapocasangre&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
-</details>
-
 </div>
 
 ---
