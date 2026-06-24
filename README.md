@@ -12,6 +12,10 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=520&lines=Jr.+Web+Developer+%F0%9F%8C%B8;Jr.+Cybersecurity+Analyst+%F0%9F%94%90;React+%26+TypeScript+Enthusiast+%E2%9C%A8;Always+learning%2C+never+stopping+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
+<!-- ───────────────────────── ABOUT ME ───────────────────────── -->
+<br/>
+
+<img align="right" width="130" src="./media/gato.gif"/>
 
 <br/><br/>
 
@@ -20,11 +24,6 @@
 
 </div>
 
-<!-- ───────────────────────── ABOUT ME ───────────────────────── -->
-<br/>
-
-<!-- 🐱 Sube tu gif como "cat.gif" a la raíz de este repo para que aparezca -->
-<img align="right" width="130" src="./media/gato.gif"/>
 
 ## 🌸 &nbsp;About Me
 
@@ -35,16 +34,17 @@ roles:
   - "Jr. Web Developer 🌐"
   - "Jr. Cybersecurity Analyst 🔐"
 stack:
-  frontend: ["React", "TypeScript", "JavaScript", "HTML", "CSS"]
+  frontend: ["React.js", "TypeScript", "JavaScript", "HTML", "CSS", "Tailwind css"]
   security: ["Network Analysis", "Linux", "Git"]
+  database: ["MySQL", "Microsoft SQL Server", "PostgreSQL"]
 interests:
-  - "Web dev & seguridad ofensiva/defensiva"
-  - "UI/UX con estética retro ✨"
-  - "City pop & lo-fi while coding 🎵"
+  - "Systems Analysis & Software Architecture"
+  - "Clean Code, Design Patterns & Best Practices ✨"
+  - "Technical Documentation & Software Quality"
+  - "User-Centered UI/UX & Efficient Workflows 🎵"
+  - "Web Development & Cybersecurity"
 currently_learning:
-  - "Penetration Testing"
-  - "Next.js"
-  - "Docker"
+  - "Ubuntu Server"
 open_to: "nuevas oportunidades y colaboraciones 🤝"
 ```
 
@@ -63,18 +63,18 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 ### 🌐 &nbsp;Frontend & Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" />
 </p>
 
 <!-- Security & DevOps -->
 
 ### 🔐 &nbsp;Security & DevOps
 
-<!-- 🐧 Sube tu gif como "tux.gif" a la raíz de este repo para que aparezca -->
+
 <img align="right" width="100" src="./media/tux.gif"/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github&theme=dark" />
 </p>
 
 <!-- Tools -->
@@ -131,14 +131,6 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 </p>
 </details>
 
-<br/>
-
-<details>
-<summary><b>🏆 Trophies</b></summary>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=karlapocasangre&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
-</details>
-
 </div>
 
 ---
@@ -155,13 +147,8 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 <!-- ───────────────────────── SNAKE ───────────────────────── -->
 
-## 🐍 &nbsp;My Contributions
+## 🐍 &nbsp;My Contributions Ñam!
 
-<!--
-  ⚠️  Para activar la serpiente, crea un GitHub Action en tu repo de perfil:
-  https://github.com/Platane/snk#github-actions
-  Una vez configurado, la imagen aparecerá automáticamente aquí.
--->
 <div align="center">
   <img src="https://github.com/karlapocasangre/karlapocasangre/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
@@ -183,5 +170,5 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <sub>✨ Made with love & lo-fi beats · karlapocasangre · 2026 ✨</sub>
+  <sub>✨ Looking beyond programming · karlapocasangre · 2026 ✨</sub>
 </div>
