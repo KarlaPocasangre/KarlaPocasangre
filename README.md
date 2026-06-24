@@ -63,26 +63,30 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 ### 🌐 &nbsp;Frontend & Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,vite,tailwindcss,markdown&theme=dark" />
 </p>
 
 <!-- Security & DevOps -->
 
 ### 🔐 &nbsp;Security & DevOps
 
-
-<img align="right" width="100" src="./media/tux.gif"/>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github&theme=dark" />
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github&theme=dark" />
+</td>
+<td>
+<img width="100" src="./media/tux.gif"/>
+</td>
+</tr>
+</table>
 
 <!-- Tools -->
 
 ### ⚙️ &nbsp;Tools & Editors
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,notion,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark" />
 </p>
 
 </div>
@@ -147,7 +151,7 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 <!-- ───────────────────────── SNAKE ───────────────────────── -->
 
-## 🐍 &nbsp;My Contributions Ñam!
+## 🐍 &nbsp;My Contributions
 
 <div align="center">
   <img src="https://github.com/karlapocasangre/karlapocasangre/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
