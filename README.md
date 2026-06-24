@@ -129,7 +129,7 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 <summary><b>💻 Profile Stats</b></summary>
 <br/>
 <p>
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=karlapocasangre&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C44DFF&count_private=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=karlapocasangre&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C44DFF&include_all_commits=true" />
   &nbsp;
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlapocasangre&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&langs_count=8" />
 </p>
