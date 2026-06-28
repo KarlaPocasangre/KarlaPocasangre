@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=520&lines=Jr.+Web+Developer+%F0%9F%8C%B8;Jr.+Cybersecurity+Analyst+%F0%9F%94%90;React+%26+TypeScript+Enthusiast+%E2%9C%A8;Always+learning%2C+never+stopping+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Visitor counter -->
 <img src="https://komarev.com/ghpvc/?username=karlapocasangre&label=visitors&color=FF6B9D&style=flat-square" alt="profile views" />
