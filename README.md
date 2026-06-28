@@ -26,7 +26,7 @@
 
 ## 🌸 &nbsp;About Me
 
-<img align="right" width="130" src="./media/gato.gif"/>
+<img align="right" width="130" src="https://github.com/user-attachments/assets/80e0f907-b4f6-456a-a215-d9bdbc738b07"/>
 
 ```yaml
 name: Karla Estefany Hernández Pocasangre
@@ -73,7 +73,7 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github&theme=dark" />
 </td>
 <td>
-<img width="100" src="./media/tux.gif"/>
+<img width="100" src="https://github.com/user-attachments/assets/e7427618-2ece-4c07-be92-403f6a9dc348"/>
 </td>
 </tr>
 </table>
@@ -128,7 +128,7 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 ## 🐍 &nbsp;My Contributions
 
-<img src="https://github.com/karlapocasangre/karlapocasangre/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/karlapocasangre/karlapocasangre/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -146,6 +146,17 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 ---
 
+<!-- ───────────────────────── QUOTE ───────────────────────── -->
+
+<div align="center">
+
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quoteCategory=programming" alt="quote"/>
+</a>
+
+</div>
+
+---
 
 <!-- ───────────────────────── CONNECT ───────────────────────── -->
 
@@ -162,20 +173,6 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 </a>
 
 </div>
-
----
-
-<!-- ───────────────────────── QUOTE ───────────────────────── -->
-
-<div align="center">
-
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quoteCategory=programming" alt="quote"/>
-</a>
-
-</div>
-
-
 
 <!-- ───────────────────────── GRADIENT DIVIDER ───────────────────────── -->
 <br/>
