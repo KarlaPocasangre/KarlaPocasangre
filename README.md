@@ -88,6 +88,65 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 ---
 
+<!-- ───────────────────────── GITHUB STATS ───────────────────────── -->
+
+<div align="center">
+
+## 📊 &nbsp;GitHub Stats
+
+<details open>
+<summary><b>💻 Profile Stats</b></summary>
+<br/>
+<p>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=karlapocasangre&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C44DFF&include_all_commits=true" />
+  &nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlapocasangre&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&langs_count=8" />
+</p>
+</details>
+
+<details>
+<summary><b>🔥 Streak Stats</b></summary>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=karlapocasangre&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF9F43&currStreakLabel=C44DFF" alt="streak" />
+</details>
+
+<details>
+<summary><b>📈 Activity Graph</b></summary>
+<br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karlapocasangre&bg_color=0D1117&color=FF6B9D&line=C44DFF&point=FF9F43&area=true&hide_border=true" alt="activity graph" />
+</a>
+</details>
+
+</div>
+
+---
+
+<!-- ───────────────────────── SNAKE ───────────────────────── -->
+
+<div align="center">
+
+## 🐍 &nbsp;My Contributions
+
+<img src="https://github.com/karlapocasangre/karlapocasangre/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+<!-- ───────────────────────── NOW PLAYING ───────────────────────── -->
+
+<div align="center">
+
+## 🎵 &nbsp;Now Playing
+
+[![Spotify](https://novatorem-eight-sable.vercel.app/api/orchestrator?background_type=blur_dark&border_color=FF6B9D)](https://novatorem-eight-sable.vercel.app/redirect)
+
+</div>
+
+---
+
+
 <!-- ───────────────────────── CONNECT ───────────────────────── -->
 
 <div align="center">
@@ -106,70 +165,6 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 ---
 
-<!-- ───────────────────────── NOW PLAYING ───────────────────────── -->
-
-<div align="center">
-
-## 🎵 &nbsp;Now Playing
-
-[![Spotify](https://novatorem-eight-sable.vercel.app/api/orchestrator?background_type=blur_dark&border_color=FF6B9D)](https://novatorem-eight-sable.vercel.app/redirect)
-
-</div>
-
----
-
-<!-- ───────────────────────── GITHUB STATS ───────────────────────── -->
-
-<div align="center">
-
-## 📊 &nbsp;GitHub Stats
-
-<details open>
-<summary><b>🔥 Streak Stats</b></summary>
-<br/>
-<img src="https://streak-stats.demolab.com/?user=karlapocasangre&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF9F43&currStreakLabel=C44DFF" alt="streak" />
-</details>
-
-<br/>
-
-<details>
-<summary><b>💻 Profile Stats</b></summary>
-<br/>
-<p>
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=karlapocasangre&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C44DFF&include_all_commits=true" />
-  &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlapocasangre&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&langs_count=8" />
-</p>
-</details>
-
-</div>
-
----
-
-<!-- ───────────────────────── ACTIVITY GRAPH ───────────────────────── -->
-
-<div align="center">
-
-## 📈 &nbsp;Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karlapocasangre&bg_color=0D1117&color=FF6B9D&line=C44DFF&point=FF9F43&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ───────────────────────── SNAKE ───────────────────────── -->
-
-<div align="center">
-
-## 🐍 &nbsp;My Contributions
-
-<img src="https://github.com/karlapocasangre/karlapocasangre/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
----
-
 <!-- ───────────────────────── QUOTE ───────────────────────── -->
 
 <div align="center">
@@ -179,6 +174,8 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 </a>
 
 </div>
+
+
 
 <!-- ───────────────────────── GRADIENT DIVIDER ───────────────────────── -->
 <br/>
