@@ -110,6 +110,18 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 </div>
 
 ---
+<!-- ───────────────────────── NOW PLAYING ───────────────────────── -->
+
+<div align="center">
+
+## 🎵 &nbsp;Now Playing
+
+[![Spotify](https://novatorem-eight-sable.vercel.app/api/orchestrator?background_type=blur_dark&border_color=FF6B9D)](https://novatorem-eight-sable.vercel.app/redirect)
+
+</div>
+
+---
+
 
 <!-- ───────────────────────── GITHUB STATS ───────────────────────── -->
 
