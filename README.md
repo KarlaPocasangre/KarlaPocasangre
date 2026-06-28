@@ -12,10 +12,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=520&lines=Jr.+Web+Developer+%F0%9F%8C%B8;Jr.+Cybersecurity+Analyst+%F0%9F%94%90;React+%26+TypeScript+Enthusiast+%E2%9C%A8;Always+learning%2C+never+stopping+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
-<!-- ───────────────────────── ABOUT ME ───────────────────────── -->
-<br/>
-
-<img align="right" width="130" src="./media/gato.gif"/>
 
 <br/><br/>
 
@@ -24,8 +20,13 @@
 
 </div>
 
+---
+
+<!-- ───────────────────────── ABOUT ME ───────────────────────── -->
 
 ## 🌸 &nbsp;About Me
+
+<img align="right" width="130" src="./media/gato.gif"/>
 
 ```yaml
 name: Karla Estefany Hernández Pocasangre
@@ -48,7 +49,7 @@ currently_learning:
 open_to: "nuevas oportunidades y colaboraciones 🤝"
 ```
 
-<br/>
+<br clear="right"/>
 
 ---
 
@@ -58,15 +59,11 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 ## 🛠️ &nbsp;Tech Stack & Tools
 
-<!-- Frontend & Languages -->
-
 ### 🌐 &nbsp;Frontend & Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,vite,tailwindcss,markdown&theme=dark" />
 </p>
-
-<!-- Security & DevOps -->
 
 ### 🔐 &nbsp;Security & DevOps
 
@@ -81,8 +78,6 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 </tr>
 </table>
 
-<!-- Tools -->
-
 ### ⚙️ &nbsp;Tools & Editors
 
 <p>
@@ -93,7 +88,7 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 ---
 
-<!-- ───────────────────────── BADGES DE CONTACTO ───────────────────────── -->
+<!-- ───────────────────────── CONNECT ───────────────────────── -->
 
 <div align="center">
 
@@ -110,6 +105,7 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 </div>
 
 ---
+
 <!-- ───────────────────────── NOW PLAYING ───────────────────────── -->
 
 <div align="center">
@@ -121,7 +117,6 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 </div>
 
 ---
-
 
 <!-- ───────────────────────── GITHUB STATS ───────────────────────── -->
 
@@ -155,6 +150,8 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 <div align="center">
 
+## 📈 &nbsp;Activity Graph
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karlapocasangre&bg_color=0D1117&color=FF6B9D&line=C44DFF&point=FF9F43&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -163,10 +160,12 @@ open_to: "nuevas oportunidades y colaboraciones 🤝"
 
 <!-- ───────────────────────── SNAKE ───────────────────────── -->
 
+<div align="center">
+
 ## 🐍 &nbsp;My Contributions
 
-<div align="center">
-  <img src="https://github.com/karlapocasangre/karlapocasangre/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://github.com/karlapocasangre/karlapocasangre/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
 </div>
 
 ---
